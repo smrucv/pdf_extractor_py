@@ -2,7 +2,6 @@
 ___
 PDF Extractor using Python and TKinter
 
-<<<<<<< HEAD
 ## Update 2021-10-12
 This App was build according to this two videos from Python Simplified's Channel on YoutTube (https://www.youtube.com/c/PythonSimplified/):
 
